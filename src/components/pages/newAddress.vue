@@ -4,11 +4,11 @@
         اطلاعات را وارد کنید!
         </h3>
 
-        <div class="col-12 col-md-8 mb-2">
+        <div class="col-12 col-md-8">
            <the-map></the-map> 
         </div>
 
-        <div class="col-12 col-md-4 mb-2">
+        <div class="col-12 col-md-4">
             <form action="">
                 <div class="input-group mb-3"
                 :class="noError">
