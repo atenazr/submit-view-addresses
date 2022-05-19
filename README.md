@@ -1,8 +1,9 @@
 # submit-view-ADDRESSES
 The project have a form data that will receive information such as first-name, last-name, mobile-number, phone-number, gender, detail address and the location on the map.
 On the other page, you can see the registered addresses.
+Of course, this project is in Persian.
 
-#vue3 #firebase #vuex  #vue-router #bbotstrap5 #vue3-openlayers
+#vue3 #firebase #vuex  #vue-router #bootstrap5 #vue3-openlayers
 
 you can see [demo](https://github.com/atenazr/submit-view-addresses/blob/master/demo/demo.wmv) or at path ./demo/demo.wmv
 
